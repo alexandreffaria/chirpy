@@ -1,3 +1,3 @@
 module github.com/alexandreffaria/chirpy
 
-go 1.18
+go 1.21.6
